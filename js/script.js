@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    console.ready("ready!");
+    $('text).ready("ready!");
 });
