@@ -2,6 +2,6 @@ $(document).ready(function() {
     console.log("ready!");
 });
 
-$( window ).load(function() {
+$(document).load(function() {
   console.log("load!")
 });
