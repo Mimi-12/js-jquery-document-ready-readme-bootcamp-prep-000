@@ -1,7 +1,4 @@
-$(document).ready(function() {
-    console.log("ready!");
+$(document).load(function() {
+    console.load("load!");
 });
 
-$(document).load(function() {
-  console.log("load!")
-});
