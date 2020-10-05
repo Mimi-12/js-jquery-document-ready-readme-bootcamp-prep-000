@@ -1,3 +1,3 @@
-$(window).load(function() {
+$(document).load(function() {
     console.load("load!");
 });
