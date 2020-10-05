@@ -1,3 +1,3 @@
-$(document).load(function() {
-    console.load("load!");
+$(document).ready(function() {
+    console.ready("ready!");
 });
